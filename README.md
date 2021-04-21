@@ -1,5 +1,8 @@
 <img src='https://avatars2.githubusercontent.com/u/14075148?s=200&v=4' width='100' />
 
+
+#!!! DataGrid is not stable and integrated in the main Avalonia Framework!
+
 # Avalonia DataGrid
 
 This is a port of the Silverlight DataGrid Control to Avalonia.
